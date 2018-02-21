@@ -2,7 +2,10 @@ emmet
 sidebar enhancement
 es6 next
 git
-vuejs
+vuejs snipets
+vuejs highlighter
+angularjs
+angularjs snippets
 css snipets
 sass
 html5
