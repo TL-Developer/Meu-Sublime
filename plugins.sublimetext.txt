@@ -1,0 +1,22 @@
+emmet
+sidebar enhancement
+es6 next
+git
+vuejs
+css snipets
+sass
+html5
+sublimelinter-jshint
+sublimelinter-csslint
+jquery
+console wrap for js  = seleciona variavel e ctrl + shift + q , botao direito do mouse remove all console log
+placeholder = img + ctrl + space
+BracketHighlighter
+auto file name
+color hightlighter
+autoprefixer ctrl + p
+live style  "aba livestyle atrue"
+inc-dec-value = alt + cima ou baixo
+advanced new file
+css extended complection
+docBlockr = *// + enter
