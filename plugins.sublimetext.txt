@@ -1,3 +1,5 @@
+ternjs
+javascript complection
 emmet
 sidebar enhancement
 es6 next
